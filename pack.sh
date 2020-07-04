@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 NAME ?= PREDATOR-EAS
 
 DATE := $(shell date "+%Y%m%d-%H%M")
