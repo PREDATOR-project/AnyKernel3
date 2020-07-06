@@ -1,8 +1,8 @@
-NAME ?= PREDATOR-EAS
+NAME ?= PREDATOR-BANGBROZZ-HMP
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := kernel-WHYRED
+CODE := kernel-WHYRED-OldCam
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
