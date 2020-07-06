@@ -2,7 +2,7 @@ NAME ?= PREDATOR-BABGBROS-HMP
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := kernel-WHYRED-OldCam
+CODE := kernel-WHYRED-NewCam
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
