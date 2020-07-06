@@ -1,8 +1,8 @@
-NAME ?= PREDATOR-BULDOSER-HMP
+NAME ?= PREDATOR-CROCODILE-HMP
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := kernel-X00T
+CODE := kernel-X00T-OC
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
