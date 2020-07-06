@@ -1,4 +1,4 @@
-NAME ?= PREDATOR-CROCODILE-HMP
+NAME ?= PREDATOR-CROCODILE-EAS
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
