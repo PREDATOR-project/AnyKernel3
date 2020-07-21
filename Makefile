@@ -1,4 +1,4 @@
-NAME ?= PREDATOR-PITHON-HMP
+NAME ?= PREDATOR-HMP
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
