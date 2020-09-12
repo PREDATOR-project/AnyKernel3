@@ -12,9 +12,9 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=X00T
 device.name2=X00TD
-device.name3=
-device.name4=
-device.name5=
+device.name3=ASUS_X00TD
+device.name4=ASUS_X00TDA
+device.name5=ASUS_X00T
 supported.versions=
 supported.patchlevels=
 '; } # end properties
